@@ -1,0 +1,11 @@
+personajes = [(1001, "Pepe Taronja", "Alive", "Human", "", "Male", "Valencia", "EDEM", None, None, "2026-10-26T10:00:00+01:00"),
+    (1002, "Lucía Fallera", "Alive", "Human", "", "Female", "Valencia", "Ruzafa", None, None, "2026-10-26T10:00:00+01:00"),
+    (1003, "Toni Paella", "Dead", "Human", "", "Male", "Albal", "La Albufera", None, None, "2026-10-26T10:00:00+01:00"),
+    (1004, "Marta Horchata", "Alive", "Human", "", "Female", "Alboraya", "EDEM", None, None, "2026-10-26T10:00:00+01:00"),
+    (1005, "Zorg", "Alive", "Alien", "Marciano", "Male", "Marte", "EDEM", None, None, "2026-10-26T10:00:00+01:00"),
+    (1006, "Xilia", "Alive", "Alien", "Venusiana", "Female", "Venus", "Ciudad de las Artes", None, None, "2026-10-26T10:00:00+01:00"),
+    (1007, "Blurp", "unknown", "Alien", "Gelatinoso", "unknown", "Plutón", "Malvarrosa", None, None, "2026-10-26T10:00:00+01:00"),
+    (1008, "R2-Taronja", "Alive", "Robot", "Asistente", "unknown", "Fábrica Ford", "EDEM", None, None, "2026-10-26T10:00:00+01:00"),
+    (1009, "Docker-Bot", "Alive", "Robot", "Contenedor", "unknown", "Servidor", "Puerto 5432", None, None, "2026-10-26T10:00:00+01:00"),
+    (1010, "Unit-404", "Dead", "Robot", "Antiguo", "unknown", "Desconocido", "Chatarrería", None, None, "2026-10-26T10:00:00+01:00"),
+]

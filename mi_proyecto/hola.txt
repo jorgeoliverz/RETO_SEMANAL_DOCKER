@@ -1,0 +1,2 @@
+ cur.execute("INSERT INTO characters (id, name, status, species, type, gender, origin_name, location_name, image, url, created) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)", personajes)
+            filas = cur.fetchall()
